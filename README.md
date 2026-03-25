@@ -28,7 +28,7 @@ I am a passionate learner currently diving deep into **CS50x**, with a special f
 
 ### 📫 Connect with me:
 - **Email:** [shahariarazimaksad@gmail.com](mailto:shahariarazimaksad@gmail.com)
-- **Learning Journey:** [Follow my progress on CS50x!](https://cs50.harvard.edu/x/)
+- **Learning Journey:** [Visit my progress on CS50x-2026!](https://submit.cs50.io/users/Aksad50)
 
 ---
 *"The best way to predict the future is to create it."*
