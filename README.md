@@ -16,7 +16,11 @@ I am a passionate learner currently diving deep into **CS50x**, with a special f
 - **Learning Journey:** [Visit my progress on CS50x-2026!](https://submit.cs50.io/users/Aksad50)
 
 ---
+### 🐍 My Contributions Snake Game
 
+![Snake animation](https://github.com/Aksad50/Aksad50/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
 ### 🏆 GitHub Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aksad50&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" /></a>
