@@ -1,19 +1,55 @@
-# Hi there, I'm Aksad! 👋
+# Hi, I'm 💬 Aksad
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aksad50&label=Profile%20views&color=0e75b6&style=flat" alt="Aksad50" />
-</p>
+<div align="center">
 
-### 🚀 Aspiring Prompt Engineer & Python Developer
-I am a passionate learner currently diving deep into **CS50x**, with a special focus on **Python** and **AI Interactions**. I love solving problems using simple, clean code and crafting precise prompts to unlock the full potential of LLMs.
+<a href="https://github.com/Aksad50">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+programmer;I'm+into+Prompt+Engineering;I'm+interested+in+AI;I+love+Building+Tools;I+write+Python+%26+HTML;By+the+way+I+use+Windows+%F0%9F%92%80" />
+</a>
+
+</div>
 
 ---
 
-### 🛠️ My Tech Stack & Interests
+## 👤 About Me
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-- **AI & Automation:** ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFD700?style=for-the-badge&logo=openai&logoColor=black) ![LLMs](https://img.shields.io/badge/LLM%20Enthusiast-4B0082?style=for-the-badge&logo=google-gemini&logoColor=white)
-- **Learning Journey:** [Visit my progress on CS50x-2026!](https://submit.cs50.io/users/Aksad50)
+```python
+class Aksad50:
+    username   = Aksad50
+    location   = 🌍 Chittagong, Bangladesh
+    os         = Windows 💻
+    editor     = VS Code
+    focus      = ["Prompt Engineering", "Automation"]
+    languages  = ["Python", "HTML", "etc"]
+    currently  = Exploring the CS50x and also the power of Prompt Engineering 🚀
+    fun_fact   = "I believe the best prompts create the best results"
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aksad50&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/Aksad50)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Aksad50&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aksad50's GitHub stats" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksad50&theme=radical&hide_border=true" alt="Aksad50's streak stats" />
+
+</div>
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksad50&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Aksad50's top languages" />
+
+</div>
 
 ---
 ### 🐍 My Contributions Snake Game
@@ -21,44 +57,99 @@ I am a passionate learner currently diving deep into **CS50x**, with a special f
 ![Snake animation](https://github.com/Aksad50/Aksad50/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aksad50&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" /></a>
-</p>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Aksad50's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aksad50&theme=redical&hide_border=true)](https://github.com/Aksad50)
+
+</div>
 
 ---
 
-### 📊 GitHub Metrics & Activity
+## 📇 Profile Summary Cards
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aksad50&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="400px" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksad50&layout=compact&theme=tokyonight" width="300px" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksad50&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksad50&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aksad50&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aksad50&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aksad50&theme=github_dark" />
+
+</div>
 
 ---
 
-### 📈 Coding Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aksad50&theme=tokyonight&bg_color=000000&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true)
+## 🚀 Projects & Interests
+
+| Area | What I Work On |
+|---|---|
+| 🤖 Prompt Engineering | Crafting effective prompts for AI models, optimizing LLM interactions |
+| 🐍 Python Development | automation tools, data processing |
+| 🌐 Web Development | HTML, CSS, frontend design, responsive interfaces |
+| ⚙️ Automation | Building tools to streamline workflows and tasks |
+
 
 ---
 
-### ⏳ Weekly Coding Activity (WakaTime)
+## 💻 Tech Stack
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+
+
+**AI & Prompt Engineering:**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-purple?style=flat-square)
+
+**Cloud & DevOps:**
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+**Tools & Environments:**
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+
 ---
 
-### 📫 Connect with me:
-- **Email:** [shahariarazimaksad@gmail.com](mailto:shahariarazimaksad@gmail.com)
-- **LinkedIn:** [Shahariar Azim Aksad](https://www.linkedin.com/in/shahariar-azim-aksad-69aaaa3b8/)
+## 📈 Profile Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aksad50&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Aksad50?label=Followers&labelColor=%236A7DA8&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Aksad50?label=Stars&labelColor=%236A7DA8&style=for-the-badge)
+
+</div>
 
 ---
-*"The best way to predict the future is to create it."*
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aksad50-181717?style=for-the-badge&logo=github)](https://github.com/Aksad50)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+If you enjoy my projects or find them useful, consider supporting me! Every bit helps me invest more time into building innovative tools and exploring AI possibilities. 🙏
+
+---
+
+<div align="center">
+
+*"The art of asking the right question is the key to unlocking AI's potential."* — Aksad50
+
+</div>
