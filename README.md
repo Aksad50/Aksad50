@@ -62,18 +62,16 @@ class Aksad50:
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Aksad50&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aksad50's GitHub stats" />
+
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksad50&theme=radical&hide_border=true" alt="Aksad50's streak stats" />
 
 </div>
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksad50&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Aksad50's top languages" />
 
 </div>
 
----
 ### 🐍 My Contributions Snake Game
 
 ![Snake animation](https://github.com/Aksad50/Aksad50/blob/output/github-contribution-grid-snake-dark.svg)
@@ -147,6 +145,9 @@ class Aksad50:
 
 </div>
 
+<p align="center">
+  <a href="https://info.flagcounter.com/X6dQ"><img src="https://s01.flagcounter.com/count2/X6dQ/bg_000000/txt_FFFFFF/border_000000/columns_5/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</p>
 ---
 
 ## 🤝 Connect With Me
