@@ -40,7 +40,7 @@ class Aksad50:
     location   = 🌍 Chittagong, Bangladesh
     os         = Windows 💻
     editor     = VS Code
-    focus      = ["Prompt Engineering", "Automation"]
+    focus      = ["Prompt Engineering", "Python Dev"]
     languages  = ["Python", "HTML", "etc"]
     currently  = Exploring the CS50x and also the power of Prompt Engineering 🚀
     fun_fact   = "I believe the best prompts create the best results"
